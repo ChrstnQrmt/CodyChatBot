@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "javacodychatbot-rcip",
+  "private_key_id": "388a1cfd0466c33a03a241cc6bd36e8448c4f7db",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDSdbD+MHayethe\nXEH4J9FAdeVAYUyDr3/Yr/Lnog5cfCWQT8+VhXpUd6srDblq0TTzZhjcmaUWVCEw\nJPchQVLvYreYIx9mgwCMhA5NK9pcbgvjytlEICSSbMl3G9kmonMSq8dMdo6/m2nT\nWSkgCQcYvvXFHqpHsPHpHi5flm84ZchUTVgtTql9KFB/bln44v5HW8DXmvBF34XM\nn9OIoPToT25a//knpD6Nqumprp9tto9jRFYNDyhT+an/zb8Fe+IXOjoatDjMcnKI\nJioBYYCglrdY4siygkp6kwkcc1UK975YdwsQKLS3+UyI6K9nzWKiJZJgDuYAqyJ8\nJZ+fhI9TAgMBAAECggEAL5NZWmzcOEaa6OHUK+PcYsUD+QTFxjMDJJnJwGEa+/84\ngqH4HCXbXILc19O3aZU3chpPXncBIcYM5pREpWjd9a2MMUEnVQYiNqGXlgxmxWQ/\nHdR6PvNBMTSUam+KLDim6L6aRAe9B0V7q8JJEKvZxddNOa1P8vrmBLvE4ejg5Y97\nqsyD8ID6VFUbP18CH2427graqjbAeP3K8BwTXVILhAStmLjsK1mB2qqINAgZYGm0\nsprGq0f+3r3g/rWpDTef/wLqq+HiNGuJEtS2qvrDlQP63++Yjj71gVIVye8FmiRd\ncK4Am0vwrEbu8DU93R4Y4MNcNJS/rRhVCPG5JRnmWQKBgQDyOZyB02UZrOD/nWcf\nfWEE4ZuI8bQguvzbFJqzmM/0lqpohkgIvOi/HbwESuxMlewrrIlmj+KZsXZjK+0R\nm1Phf5+LCg4iwZImHnzBHs5e/SYIzTh40DaHsFOGzhEkLkswccyoGqef4ADsDwh+\nM+f8qAGyUUnlYhBf1I9AUnFC/wKBgQDebaFtoqljNYfUIcTZJ7ZTYtoBPaz7DrVT\ncLkwbqAr4VKa2ElVRjnPO3cQHFAmJggyh7iUqlllRYRwYBd+NVrV87T9OZefFUzk\ntd6JUxNw/bM1/GhhlMmHCB3l3znZwHTrrXqnpBb3f7HR3RNs7scSiRMLliPhmuOk\n7brvS+q3rQKBgGWKUxp1VK9jslpVUJJ5y77xGHNa52jFGhR42bUp/RsKQdtZVz8a\nefML8vJVuiMMwhk41cyByrslEnzWQCYeWBZymp39lBlrzele5GtMj7RwKI6OAPtc\nRU+yUgFzxunE4k4nlmRt8BDsJVbPon7NIZXfk/59Zx3acwTJJVgQd1xfAoGAboUi\n1QsiB32txCYTXaNx4PUZRcyTixu/1XoJSpttUuBe3znhFlISn3n4qzSmTo5PPGxb\ntuL+EGf+aqgUhE2WmQDDSZ+4Sv+WeX402R9CZb5pscV9SB9aE5Jg6LuGT0Bl2EUW\n0P2ju87jWFf1MwdiOz+JCxTLN2py+px1ajnaovECgYAElKLZKCTUELg0uSxYwUm4\nypXz/QP2iaqaW2NjCYNhKReNUo10kUYU0+EvdsuARzMtL1hmRGAdGFQ5CbPZXjIm\nYLwVqP0GkOp1wG42uFSJemQIcP9yLfOH/P/H/vZSZjVKBckeCSCyPd2POacCZVg+\n4JrOQmyOPxf2Pz3UEKCOfg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "javacodybot@javacodychatbot-rcip.iam.gserviceaccount.com",
+  "client_id": "112872603683956256913",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/javacodybot%40javacodychatbot-rcip.iam.gserviceaccount.com"
+}

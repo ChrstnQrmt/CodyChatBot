@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "592382180396",
+    "project_id": "codychatbot-452c4",
+    "firebase_url": "https://codychatbot-452c4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "storage_bucket": "codychatbot-452c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592382180396:android:9451bc934f04931465e589",
+        "android_client_info": {
+          "package_name": "com.example.itech_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592382180396-50r063l215db4cm1oheb7vr08dbthrfb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ2uAitUHJyGnVGbQmSaA1JxpjVQxGJHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592382180396-50r063l215db4cm1oheb7vr08dbthrfb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
